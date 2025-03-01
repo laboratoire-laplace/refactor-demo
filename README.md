@@ -1,5 +1,9 @@
 # Refactor Demo
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue)](https://www.typescriptlang.org/)
+[![Bun](https://img.shields.io/badge/Bun-1.0+-orange)](https://bun.sh/)
+
 A real-time dashboard for monitoring agent thoughts, status, and blockchain actions.
 
 ## Overview
