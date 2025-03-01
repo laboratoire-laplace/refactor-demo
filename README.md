@@ -11,8 +11,9 @@ A real-time dashboard for monitoring agent thoughts, status, and blockchain acti
 The Refactor Demo provides a visual interface for monitoring your agents' activities in real-time. It displays agent thoughts, blockchain actions, and status updates as they occur, allowing you to track and analyze agent behavior across your system.
 
 ## Related Repositories
+Please refer to that repository for instructions on running agents that can connect to this dashboard:
 
-This dashboard is designed to work with agents from the [Refactor](https://github.com/laboratoire-laplace/refactor) repository. Please refer to that repository for instructions on running agents that can connect to this dashboard.
+👉 **[Refactor Agents](https://github.com/laboratoire-laplace/refactor)**
 
 ## Features
 
